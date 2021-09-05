@@ -1,9 +1,10 @@
 # Introduction to Statistics
 
 This course was taught at Harbour.Space university in December 2020.
+
 More info: https://harbour.space/data-science/courses/introduction-to-statistics1-evgeniya-korneva
 
-Below is a brief overview of the course.
+Below is a brief overview of the course:
 
 - **Lecture 1** Introduction. Descriptive vs inferential statistics
 - **Lecture 2** Inferential statistics. Method of maximum likelihood (discrete)
